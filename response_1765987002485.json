@@ -1,0 +1,140 @@
+{
+  "game": "MemoryWall",
+  "global": {
+    "totalSessionTime": 120,
+    "firstSessionTimeMultiplier": 3,
+    "pointsToLevelUp": 30,
+    "successPoints": 10,
+    "errorPoints": 5,
+    "hasTimeoutSystem": false,
+    "timeoutSystemType": 0,
+    "timeoutPenaltyType": 0,
+    "timeoutPenaltyPoints": 0,
+    "allowedMistakesBeforeLevelDown": 2,
+    "fractionPointsToKeep": 0.8
+  },
+  "game_config": {
+    "timeAfterLevelEnd": 1,
+    "gridSpawnRadius": 25,
+    "gridPopulateDuration": 1,
+    "gridTilesSpacing": 0.2,
+    "gridDistanceFromPlayer": 5,
+    "gridDestroyDuration": 1,
+    "gridDestroyDelay": 0.01,
+    "gridPopulateDelay": 0.01
+  },
+  "levels": [
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 3,
+      "highlightedTiles": 3,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 3,
+      "highlightedTiles": 4,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 4,
+      "highlightedTiles": 4,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 4,
+      "highlightedTiles": 5,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 4,
+      "highlightedTiles": 6,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 4,
+      "highlightedTiles": 7,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 5,
+      "highlightedTiles": 5,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 5,
+      "highlightedTiles": 6,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 5,
+      "highlightedTiles": 7,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 5,
+      "highlightedTiles": 8,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 6,
+      "highlightedTiles": 6,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 6,
+      "highlightedTiles": 7,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 6,
+      "highlightedTiles": 8,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 6,
+      "highlightedTiles": 9,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 6,
+      "highlightedTiles": 10,
+      "highlightDuration": 3
+    },
+    {
+      "timeoutPenaltyInSeconds": 0,
+      "timeoutDisplayTimeInSeconds": 0,
+      "gridSize": 6,
+      "highlightedTiles": 11,
+      "highlightDuration": 3
+    }
+  ]
+}
